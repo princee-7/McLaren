@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: orange;
+}
+
+h1, h2 {
+  font-family: 'Comic Sans MS', cursive;
+  color: red;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+  margin: 10px;
+  border-radius: 10px;
+}
